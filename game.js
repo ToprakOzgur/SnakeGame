@@ -13,7 +13,7 @@ const gameBoard = document.getElementById('game-board');
 function main(currentTime) {
   if (gameOver) {
     if (confirm('you lost')) {
-      window.location = '/';
+      window.location.reload();
     }
     return;
   }
