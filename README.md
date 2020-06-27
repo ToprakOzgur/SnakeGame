@@ -2,12 +2,12 @@
 
 ![game](./sc.png)
 
-### [Game](https://toprakozgur.github.io/SnakeGame/)
+### [Play](https://toprakozgur.github.io/SnakeGame/)
 
 ## Description
 
 -Html, Css grid system
 -Vanilla JavaScript
 
-# Instructions
+### Instructions
 -Arrow keys to move snake
