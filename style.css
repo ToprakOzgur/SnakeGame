@@ -3,6 +3,7 @@
   --boardColor: #FCFCFC;
   --snakeColor: #3DDC97;
   --foodColor: #FF495C;
+  --blueColor: #256EFF;
 }
 
 
@@ -27,6 +28,7 @@ body {
 
 .snake {
   background-color: var(--snakeColor);
+
 
 }
 
